@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>es.iws</groupId>
-  <artifactId>UpdateCheck</artifactId>
+  <artifactId>updatecheck</artifactId>
   <versioning>
     <release>0.9.5</release>
     <versions>
