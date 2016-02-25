@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>es.iws</groupId>
-  <artifactId>UpdateCheck</artifactId>
+  <artifactId>updatecheck</artifactId>
   <version>0.9.5</version>
   <packaging>aar</packaging>
   <description>POM was created from install:install-file</description>
